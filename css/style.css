@@ -55,6 +55,7 @@
 
 #resultado {
     background-color: white;
+    border: 1px solid #0b502b75;
     font-size: 29px;
     color: black;
     padding: 5px;
